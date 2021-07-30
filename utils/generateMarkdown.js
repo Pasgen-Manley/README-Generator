@@ -1,4 +1,4 @@
-// TODO: Create a function to generate markdown for README
+//Function to generate markdown for README
 function generateMarkdown(data) {
 
   switch (data.license) {
@@ -22,15 +22,6 @@ function generateMarkdown(data) {
     default:
       break;
   }
-
-  //Generate table of contents
-  // let tableOfContents = `\n# Table of Contents\n`;
-  // if (data.confirmInstall) { tableOfContents += `* [Installation](#installation)\n`};
-  // tableOfContents += `* [Usage](#usage)\n`;
-  // tableOfContents += `* [License](#license)\n`;
-  // if (data.confirmContributors) { tableOfContents += `*[Contributors](#contributors)\n`};
-  // if (data.confirmTest) { tableOfContents += `* [Tests](#tests)\n`};
-  // tableOfContents += `* [Questions](#questions)\n`;
 
   return `
   # ${data.title}

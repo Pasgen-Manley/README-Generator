@@ -1,9 +1,9 @@
 
-  # Dardy Bar
-  [![License : Apache](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  # EasyBuild README Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  How to get on it!!!
+  The aim of this application was to build a generator where anyone can build a professinal standard README.md document in Node.js. This was done using the inquirer package for the question prompts.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,22 +14,19 @@
   * [Questions](#questions)
 
   ## Installation
-  Just swolllow the damn thing!
+  Clone the Github repository to your console. Navigate to the correct folder in your console. Then install inquirer into the console by inputing 'npm install inquirer'.
 
   ## Usage
   undefined
 
   ## License
-  This application is covered under the Apache license.
+  This application is covered under the MIT license.
 
   ## How to Contribute
-  BE SWEGGY and BEGGY
-
-  ## Testing
-  Test deez nutz
+  Please contact me for further information if you wish to be a contributor on this project.
 
   ## Questions
-  Created by [PasgenJeff](whaatever)
+  Created by [Pasgen-Manley](https://github.com/Pasgen-Manley)
 
-  If you have any questions please contact me at [gay@gay.com](gay@gay.com)
+  If you have any questions please contact me at [pasgen95@gmail.com](pasgen95@gmail.com)
 

@@ -17,6 +17,7 @@
 
   ## Usage
   Follow the command line promps given to you by the terminal.
+  ![Example of terminal questions](./images/terminalQs.png).
 
   ## License
   This application is covered under the MIT license.

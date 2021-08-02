@@ -33,16 +33,16 @@ function generateMarkdown(data) {
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Licence](#licence)
-  * [How to Contribute](#How-to-Contribute)
-  * [Testing](#tests)
+  * [License](#license)
+  * [How to Contribute](#how-to-contribute)
+  * [Testing](#testing)
   * [Questions](#questions)
 
   ## Installation
   ${data.installInput}
 
   ## Usage
-  ${data.usageInput}
+  ${data.usage}
 
   ## License
   This application is covered under the ${data.license} license.

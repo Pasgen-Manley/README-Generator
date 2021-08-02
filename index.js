@@ -55,8 +55,8 @@ const questions = () => {
         type: 'input',
         message: 'Please explain how this project is used:',
         name: 'usage',
-        validate: usageInput => {
-          if (usageInput) {
+        validate: usage => {
+          if (usage) {
             return true;
           } else {
             console.log('Please let user know how best to use your project');
